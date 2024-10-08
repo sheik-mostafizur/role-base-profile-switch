@@ -141,3 +141,9 @@ export const role = {
 - **TypeScript**: For static typing and better developer experience.
 - **React Router**: For routing based on user roles.
 - **Vite**: For fast development server and build setup.
+
+## Follow me
+
+- [Linkedin](https://www.linkedin.com/in/sheik-mostafizur/)
+- [Twitter](https://x.com/sheikmostafizur)
+- [GitHub](https://github.com/sheik-mostafizur)
